@@ -21,7 +21,7 @@ The internship focuses on enhancing Java programming skills through hands-on tas
 
 ## Project Tasks
 Here are the tasks/projects included in this repository:
-1. **[Task 1: Number-Game]((https://github.com/uborkar/Codsoft-Internship/tree/Task-1-Number-Game))**  
+1. **[Task 1: Number-Game](https://github.com/uborkar/Codsoft-Internship/tree/Task-1-Number-Game)**  
    - Brief description of the task
    - Generate a random number within a specified range, such as 1 to 100.
    - Prompt the user to enter their guess for the generated number.
