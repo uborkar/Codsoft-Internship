@@ -1,4 +1,4 @@
-# Codsoft Internship - Java Programming
+z# Codsoft Internship - Java Programming
 "Codsoft-Internship" This repository contains the Java programming tasks and projects completed during my internship at Codsoft. 
 Each task showcases my skills, problem-solving abilities, and knowledge gained throughout the program. 
 
@@ -8,7 +8,7 @@ Welcome to my **Codsoft Internship** repository! This repository showcases the J
 1. [Java Programming Internship](#Codsoft-internship)
 2. [Core Java](#Javaprogramming)
 3. [5 Tasks](#Internship-tasks)
-4. [ git clone https://github.com/yourusername/Codsoft-Internship.git](#git-clone-https://github.com/yourusername/Codsoft-Internship.git)
+4. [Run Code](#git-clone-https://github.com/yourusername/Codsoft-Internship.git)
 5. [uborkar100@gmail.com ](#uborkar100@gmail.com)
 
 ## About the Internship
