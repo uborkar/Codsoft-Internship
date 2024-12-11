@@ -48,7 +48,7 @@ Here are the tasks/projects included in this repository:
    - Currency Conversion: Convert the input amount from the base currency to the target currency using the fetched exchange rate.
    - Display Result: Show the converted amount and the target currency symbol to the user.
 
-*(Add more tasks as needed with links to respective folders or files.)*
+*( more tasks will be added soon....)*
 
 ## How to Run the Code
 1. Clone the repository:
