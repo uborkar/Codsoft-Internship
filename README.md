@@ -55,7 +55,7 @@ Here are the tasks/projects included in this repository:
    ```bash
    git clone https://github.com/yourusername/Codsoft-Internship.git
 
-**Repository Structure**
+## **Repository Structure**
    Codsoft-Internship/
 │
 ├── Task-1/Number-Game
@@ -76,6 +76,7 @@ Here are the tasks/projects included in this repository:
 ├── .gitignore              # Files and directories to be ignored by Git
 └── README.md               # General documentation for the repository
 
+## License
 
 Copyright (c) 2024 [Umair Mazhar Borkar]
 
