@@ -16,7 +16,7 @@ The internship focuses on enhancing Java programming skills through hands-on tas
 
 ## Technologies Used
 - **Java**: Core programming language for the tasks.
-- **IDE**: Eclipse (specify what you used).
+- **IDE**: Eclipse, NetBeans etc.
 - **Version Control**: Git and GitHub for code management.
 
 ## Project Tasks
