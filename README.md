@@ -40,7 +40,7 @@ Here are the tasks/projects included in this repository:
    - Grade Calculation: Assign grades based on the average percentage achieved.
    - Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
      
-3. **[Task 3: CURRENCY CONVERTER](link-to-task3-folder)**  
+3. **[Task 3: CURRENCY CONVERTER](https://github.com/uborkar/Codsoft-Internship/commit/8c478fbb408007d2276d6c9b665ed7eb440b3cae)**  
    - Brief description of the task.
    - Currency Selection: Allow the user to choose the base currency and the target currency.
    - Currency Rates: Fetch real-time exchange rates from a reliable API.
