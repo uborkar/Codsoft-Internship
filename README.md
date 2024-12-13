@@ -32,7 +32,7 @@ Here are the tasks/projects included in this repository:
    - Add the option for multiple rounds, allowing the user to play again.
    - Display the user's score, which can be based on the number of attempts taken or rounds won.
      
-2. **[Task 2: Student Grade Calculator](link-to-task2-folder)**  
+2. **[Task 2: Student Grade Calculator](Task:2/src/gradeCalculator/StudentGradeCalculator.java)**  
    - Brief description of the task.
    - Input: Take marks obtained (out of 100) in each subject.
    - Calculate Total Marks: Sum up the marks obtained in all subjects.
