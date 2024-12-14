@@ -53,7 +53,7 @@ Here are the tasks/projects included in this repository:
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Codsoft-Internship.git
+   git clone https://github.com/uborkar/Codsoft-Internship.git
 
 ## **Repository Structure**
    Codsoft-Internship/
