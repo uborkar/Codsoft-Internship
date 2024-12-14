@@ -8,7 +8,7 @@ Welcome to my **Codsoft Internship** repository! This repository showcases the J
 1. [Java Programming Internship](#Codsoft-internship)
 2. [Core Java](#Javaprogramming)
 3. [5 Tasks](#Internship-tasks)
-4. [Run Code](#https://github.com/uborkar/Codsoft-Internship.git)
+4. [Run Code](https://github.com/uborkar/Codsoft-Internship)
 5. [uborkar100@gmail.com ](#uborkar100@gmail.com)
 
 ## About the Internship
